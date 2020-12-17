@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "dummy-multi-main-repo"
+  "defaultProject": "dummy-multi-main-repo",
+  "cli": {
+    "analytics": false
+  }
 }
